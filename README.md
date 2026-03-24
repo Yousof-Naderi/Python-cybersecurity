@@ -1,2 +1,9 @@
-# Python-cybersecurity
-My journey learning Python for cybersecurity 
+# Python Cybersecurity Journey
+
+Day 1:
+Started learning Python for cybersecurity.
+
+Goals:
+- Learn Python basics
+- Build cybersecurity tools
+- Become an ethical hacker
